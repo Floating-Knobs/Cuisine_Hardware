@@ -6,7 +6,7 @@ A large choice of compatible libraries is available, allowing for seamless imple
 
 Our own libraries will be released for the specific hardware features of Cuisine, ensuring optimal performance and ease of use for developers.
 
-Library planned for realease :
+Library planned for release :
 - Endless potentiometer
 - Keyboard
 - Gate input
