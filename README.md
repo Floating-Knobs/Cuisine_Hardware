@@ -4,6 +4,8 @@ The design is based on an Atmega4809 and Arduino compatible, so you can simply u
 
 A large choice of compatible libraries is available, allowing for seamless implementation of functionalities.
 
+You can start with the [MegaCoreX](https://github.com/MCUdude/MegaCoreX) , it will be needed to program Cuisine with the Arduino IDE.
+
 Our own libraries will be released for the specific hardware features of Cuisine, ensuring optimal performance and ease of use for developers.
 
 Library planned for release :
